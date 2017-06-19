@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop2", "Webshop2\Webshop2.csproj", "{1542D3B5-4FF5-4A81-BE93-8FA45E1E870E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop2.Tests", "Webshop2.Tests\Webshop2.Tests.csproj", "{506B252E-C505-4321-8DEE-32FF3BCC2CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1542D3B5-4FF5-4A81-BE93-8FA45E1E870E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1542D3B5-4FF5-4A81-BE93-8FA45E1E870E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1542D3B5-4FF5-4A81-BE93-8FA45E1E870E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1542D3B5-4FF5-4A81-BE93-8FA45E1E870E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506B252E-C505-4321-8DEE-32FF3BCC2CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506B252E-C505-4321-8DEE-32FF3BCC2CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506B252E-C505-4321-8DEE-32FF3BCC2CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506B252E-C505-4321-8DEE-32FF3BCC2CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
